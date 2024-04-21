@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=express)&nbsp;
 ![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=for-the-badge&logo=nestjs)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=for-the-badge&logo=graphql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDb-05122A?style=for-the-badge&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=for-the-badge&logo=redis)&nbsp;
