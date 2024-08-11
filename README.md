@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <h2>⚡ &nbsp;Current Role</h2>
 
-<p>Full Stack Engineer (remote) at <a href="https://www.linkedin.com/company/sweepuk/" target="_blank">Sweep Ltd</a> (May 2021 - Present)</p>
+<p>Full Stack Engineer (remote) at <a href="https://www.linkedin.com/company/sweepuk/" target="_blank">Compredict</a></p>
 
 <note>Automating payment processes for finance teams using React, MongoDB, Docker, Redux, and Node.js.</note>
 
