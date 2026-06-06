@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 ![TS](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux)&nbsp;
+![Zustand](https://img.shields.io/badge/-Zustand-05122A?style=for-the-badge&logo=zustand)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=for-the-badge&logo=SASS&logoColor=1572B6)&nbsp;
